@@ -1,0 +1,7 @@
+{
+  "name": "azurestorage/pagination",
+  "require": {
+    "jasongrimes/paginator": "~1.0",
+    "microsoft/azure-storage": "*"
+  }
+}
