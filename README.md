@@ -7,10 +7,7 @@ author: msonecode
 # How to do queries and pagination for Azure Table Storage in PHP
 
 ## Introduction
-This sample demonstrates how to do queries and pagination for Azure Table Storage in PHP.
-
-**Note:**  
-Download PHP project from C# link. And then ignore the empty C# project in the folder. 
+This sample demonstrates [how to do queries and pagination for Azure Table Storage in PHP](https://code.msdn.microsoft.com/How-to-do-queries-and-08c9ee14).
 
 ## Sample prerequisites
 - PHP 5.5 or above
