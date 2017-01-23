@@ -16,7 +16,8 @@ This sample demonstrates [how to do queries and pagination for Azure Table Stora
 
 ## Building the sample
 Install via Composer: open a command prompt and execute under command in your project root.  
-> php composer.phar install
+> php composer.phar install  
+
 ![][2] 
 
 ## Running the sample
