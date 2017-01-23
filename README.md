@@ -15,16 +15,16 @@ This sample demonstrates [how to do queries and pagination for Azure Table Stora
 - [PHP Tools for Visual Studio][1](Optional)
 
 ## Building the sample
-Install via Composer: open a command prompt and execute this in your project root.  
+Install via Composer: open a command prompt and execute under command in your project root.  
 > php composer.phar install
 ![][2] 
 
 ## Running the sample
-- In index.php file, replace "<yourAccount>" and "<yourKey>" with your own account and key.
+- In index.php file, replace "&lt;yourAccount&gt;" and "&lt;yourKey&gt;" with your own account and key.
 - Press F5 to debug.  
 ![][3]
 
-Then you will see a page like this:  
+Then you will see a query result page:  
 ![][4]
 
 ## Using the code
