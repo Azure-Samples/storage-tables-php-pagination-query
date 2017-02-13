@@ -29,7 +29,7 @@ Then you will see a query result page:
 ![][4]
 
 ## Using the code
-In Azure Table Storage query, there's no wildcard searching command that’s equivalent to LIKE command in T-SQL. You'll see commands such as eq, gt, ge, lt, le and ne. 
+In Azure Table Storage query, there's no wildcard searching command that is equivalent to LIKE command in T-SQL. Instead. you'll see commands like eq, gt, ge, lt, le and ne. 
 
 ``` php
 $filter =  "PropertyName ne 'Example100'"; 
@@ -37,7 +37,7 @@ $options = new QueryEntitiesOptions();
 $options->setFilter(Filter::applyQueryString($filter));
 ```
 
-Pagination for Azure Table Storage
+Pagination for Azure Table Storage is as below.
 
 ``` php
 <?php 
